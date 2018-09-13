@@ -1,6 +1,9 @@
 _repo: Sternsteinin-kartano_51524
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Der Sternsteinhof. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anzengruber, Ludwig
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Ludwig_Anzengruber
     - http://de.wikipedia.org/wiki/Ludwig_Anzengruber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51524#Sternsteinin-kartano
 gutenberg_issued: '2016-03-22'
 gutenberg_type: Text
 identifiers:
